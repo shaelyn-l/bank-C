@@ -1,0 +1,108 @@
+Script started on Sun 29 Oct 2023 02:46:38 PM HST
+]0;shaelynl@uhx02:~/homework3b[?1034huhx02:/home/s/shaelynl/homework3b% ./project
+
+Welcome to the user interface of this banking systems record tracker!
+
+Please enter one of the following options for what you would like to do:
+
+add: if you would like to add a record
+printall: if you would like to print all reccords currently in the database
+find: if you would like to find a certain record
+delete: if you would like to delete a record
+quit: if you would like to quit the program
+print
+no records to print
+
+Please enter one of the following options for what you would like to do:
+
+add: if you would like to add a record
+printall: if you would like to print all reccords currently in the database
+find: if you would like to find a certain record
+delete: if you would like to delete a record
+quit: if you would like to quit the program
+ad
+please enter your account number: 
+113344
+please enter your name: 
+John Smith
+please enter your address: (you must hit the ']' key followed by the enter key when you are done typing your address)
+1111 Dole St.,
+Honolulu, HI 96822]
+record was successfully added
+
+Please enter one of the following options for what you would like to do:
+
+add: if you would like to add a record
+printall: if you would like to print all reccords currently in the database
+find: if you would like to find a certain record
+delete: if you would like to delete a record
+quit: if you would like to quit the program
+a
+please enter your account number: 
+125344
+please enter your name: 
+Sammy Doe
+please enter your address: (you must hit the ']' key followed by the enter key when you are done typing your address)
+7563 Lokalia St.,
+Honolulu, HI 96822]
+record was successfully added
+
+Please enter one of the following options for what you would like to do:
+
+add: if you would like to add a record
+printall: if you would like to print all reccords currently in the database
+find: if you would like to find a certain record
+delete: if you would like to delete a record
+quit: if you would like to quit the program
+pri
+Account Number: 125344
+Name: Sammy Doe
+Address: 7563 Lokalia St.,
+Honolulu, HI 96822
+
+Account Number: 113344
+Name: John Smith
+Address: 1111 Dole St.,
+Honolulu, HI 96822
+
+
+Please enter one of the following options for what you would like to do:
+
+add: if you would like to add a record
+printall: if you would like to print all reccords currently in the database
+find: if you would like to find a certain record
+delete: if you would like to delete a record
+quit: if you would like to quit the program
+fin
+enter the record you want to find by entering the account number: 
+113344
+Account Number: 113344
+Name: John Smith
+Address: 1111 Dole St.,
+Honolulu, HI 96822
+
+
+Please enter one of the following options for what you would like to do:
+
+add: if you would like to add a record
+printall: if you would like to print all reccords currently in the database
+find: if you would like to find a certain record
+delete: if you would like to delete a record
+quit: if you would like to quit the program
+d
+enter the account number you would like to delete
+113344
+record was successfully deleted
+
+Please enter one of the following options for what you would like to do:
+
+add: if you would like to add a record
+printall: if you would like to print all reccords currently in the database
+find: if you would like to find a certain record
+delete: if you would like to delete a record
+quit: if you would like to quit the program
+qui
+]0;shaelynl@uhx02:~/homework3buhx02:/home/s/shaelynl/homework3b% exit
+exit
+
+Script done on Sun 29 Oct 2023 02:47:55 PM HST

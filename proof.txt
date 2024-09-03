@@ -1,0 +1,9 @@
+Script started on Sun 29 Oct 2023 02:32:21 PM HST
+]0;shaelynl@uhx02:~/homework3b[?1034huhx02:/home/s/shaelynl/homework3b% make
+gcc -ansi -pedantic-errors -Wall -c user_interface.c
+gcc -ansi -pedantic-errors -Wall -c database.c
+gcc -o project user_interface.o database.o
+]0;shaelynl@uhx02:~/homework3buhx02:/home/s/shaelynl/homework3b% exit
+exit
+
+Script done on Sun 29 Oct 2023 02:32:27 PM HST
